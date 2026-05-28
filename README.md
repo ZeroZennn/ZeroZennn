@@ -16,7 +16,7 @@
 
 <br>
 
-### ⬛ SYSTEM_OVERVIEW
+### >_ SYSTEM_OVERVIEW
 
 I am a final-year Information Technology student based in Indonesia, specializing in developing high-performance web platforms and integrating intelligent systems. Experienced in designing scalable architectures that connect modern web ecosystems with AI models for enterprise-grade solutions.
 
@@ -26,7 +26,7 @@ I am a final-year Information Technology student based in Indonesia, specializin
 
 <br>
 
-### ⬛ TECH_ARSENAL
+### >_ TECH_ARSENAL
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
@@ -40,12 +40,12 @@ I am a final-year Information Technology student based in Indonesia, specializin
 
 <br>
 
-### ⬛ TELEMETRY_DATA
+### >_ TELEMETRY_DATA
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeroZennn&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=a0a0a0&icon_color=ffffff&bg_color=00000000" alt="Zikran's GitHub Stats" />
+  [![Zikran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeroZennn&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=a0a0a0&icon_color=ffffff)](https://github.com/ZeroZennn)
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroZennn&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=a0a0a0&bg_color=00000000" alt="Zikran's Top Languages" />
+  [![Zikran's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroZennn&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=a0a0a0)](https://github.com/ZeroZennn)
 
 </div>
