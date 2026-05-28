@@ -44,8 +44,8 @@ I am a final-year Information Technology student based in Indonesia, specializin
 
 <div align="center">
   
-  [![Zikran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeroZennn&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=a0a0a0&icon_color=ffffff)](https://github.com/ZeroZennn)
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZeroZennn&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=a0a0a0&icon_color=ffffff" alt="Zikran's GitHub Stats" />
   
-  [![Zikran's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroZennn&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=a0a0a0)](https://github.com/ZeroZennn)
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroZennn&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=a0a0a0" alt="Zikran's Top Languages" />
 
 </div>
